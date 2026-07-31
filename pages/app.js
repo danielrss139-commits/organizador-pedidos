@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Head from "next/head";
 import * as XLSX from "xlsx";
-import "../styles/globals.css";
+
 
 const SAMPLE_PLACEHOLDER = `Cole aqui as mensagens dos clientes, por exemplo:
 
